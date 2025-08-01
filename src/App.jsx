@@ -28,7 +28,7 @@ class App extends Component {
         </section>
         <footer>Copyright @ 2025. All rights reserved.</footer>
       </>
-    );
+    )
   }
 }
 
